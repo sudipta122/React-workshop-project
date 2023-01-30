@@ -1,6 +1,6 @@
 .mainContainer{
     box-shadow: rgba(0, 0, 0, 0.16) 0px 3px 6px, rgba(0, 0, 0, 0.23) 0px 3px 6px;
-    width: 45vw;
+    width: 47vw;
     height: 70vh;
     margin: auto;
     display: flex;
@@ -11,7 +11,7 @@
     row-gap: 20px;
     text-transform: capitalize;
     position: relative;
-    border-radius: 10px;
+   
 }
 .LeftIcon{
     position: absolute;
