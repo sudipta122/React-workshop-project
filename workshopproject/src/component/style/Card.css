@@ -1,0 +1,29 @@
+.mainContainer{
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 3px 6px, rgba(0, 0, 0, 0.23) 0px 3px 6px;
+    width: 45vw;
+    height: 70vh;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-size: 1.4rem;
+    row-gap: 20px;
+    text-transform: capitalize;
+    position: relative;
+    border-radius: 10px;
+}
+.LeftIcon{
+    position: absolute;
+    top: 25;
+    left: 0;
+    margin-left: 30px;
+    cursor: pointer;
+}
+.RightIcon{
+    position: absolute;
+    top: 25;
+    right: 0;
+    margin-right: 30px;
+    cursor: pointer;
+}
